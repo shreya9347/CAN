@@ -11,7 +11,7 @@
 This Project is a part of Cisco Virtual Intern Program 2021 by Natacad,AICTE,Cisco . Build a architeture of Campuss area network iamge is attached .
 
 <p align="center">
-  <img src="">
+  <img src="https://raw.githubusercontent.com/shreya9347/CAN/main/Network%20Connectivity%20Layout%20-Diagram.png">
 </p>
 <br>
 
